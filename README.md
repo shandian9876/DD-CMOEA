@@ -1,5 +1,7 @@
 # README
 
+## After the manuscript (Decomposition-based Dual-population Evolutionary Algorithm for Constrained Multi-objective Problem) is accepted, the code of DD-CMOEA can be downloaded.
+
 ## Introduction
 This project contains the MATLAB source code for the Decomposition-based Dual-population Constrained Multi-objective Evolutionary Algorithm (**DD-CMOEA**). The algorithm is designed to solve complex constrained multi-objective optimization problems using decomposition strategies, dual-population collaborative search, and angle-based constraint dominance principles.
 
