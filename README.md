@@ -1,6 +1,6 @@
 # README
-If you are using this code, please cite this paper：
-Yufeng Wang, Yong Zhang, Chunyu Xu, Wen Bai, Ke Zheng,Wenyong Dong. Decomposition-based dual-population evolutionary algorithm for constrained multi-objective problem. Swarm and Evolutionary Computation, 95 (2025):101912-101927.
+###If you are using this code, please cite this paper：
+###Yufeng Wang, Yong Zhang, Chunyu Xu, Wen Bai, Ke Zheng,Wenyong Dong. Decomposition-based dual-population evolutionary algorithm for constrained multi-objective problem. Swarm and Evolutionary Computation, 95 (2025):101912-101927.
 
 
 ## Introduction
